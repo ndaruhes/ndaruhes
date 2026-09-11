@@ -5,7 +5,7 @@ Software engineer building web systems, backend services, internal tools, and AI
 - 🛠️ **Focus:** Backend Engineering, Full-stack Development, System Design, AI-assisted Engineering
 - 🧠 **Currently exploring:** agentic coding & prompt-driven development workflows
 - 💬 **Ask me about:** Go, Laravel, Node.js/NestJS, or LLM-assisted dev tooling
-- 📫 **Reach me at:** your@email.com
+- 📫 **Reach me at:** muhamad.ndaru@gmail.com
 
 ### Stack
 
