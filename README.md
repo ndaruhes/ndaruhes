@@ -1,19 +1,29 @@
-# ~/dev 👋
+# Hi, I'm Ndaru 👋
 
-Software engineer building web systems, backend services, internal tools, and AI-assisted workflows.
+<p align="left">
+  <a href="mailto:muhamad.ndaru@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ndaruhes.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 - 🛠️ **Focus:** Backend Engineering, Full-stack Development, System Design, AI-assisted Engineering
 - 🧠 **Currently exploring:** agentic coding & prompt-driven development workflows
 - 💬 **Ask me about:** Go, Laravel, Node.js/NestJS, or LLM-assisted dev tooling
-- 📫 **Reach me at:** muhamad.ndaru@gmail.com
 
-### Stack
+---
+
+### 🧰 Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,php,laravel,nodejs,express,nestjs,react,nextjs,vue,tailwind,postgres,mysql,prisma,docker,nginx,githubactions,jenkins,linux,git,vite,rabbitmq" />
 </p>
 
-### AI Workflow
+---
+
+### 🤖 AI Workflow
 
 **Workflow:** vibe coding · agentic coding · prompt-driven development · AI-assisted debugging · code generation & review
 
@@ -21,7 +31,9 @@ Software engineer building web systems, backend services, internal tools, and AI
 
 **Models:** GPT · Claude · Gemini · Qwen · DeepSeek · open-source LLMs
 
-### Currently
+---
+
+### 📌 Currently
 
 **Interests:** backend systems, developer tools, AI-native applications, LLM integrations, automation, self-hosting
 
