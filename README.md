@@ -1,4 +1,3 @@
-```md
 # ~/dev
 
 > software engineer building web systems, backend services, internal tools, and AI-assisted workflows.
@@ -12,7 +11,7 @@ const focus = [
 ];
 ```
 
-## stack
+### stack
 
 ```txt
 backend
@@ -48,7 +47,7 @@ tools
 └── OpenSearch
 ```
 
-## ai.exe
+### ai.exe
 
 ```yaml
 workflow:
@@ -73,7 +72,7 @@ models:
   - open-source LLMs
 ```
 
-## current.mode
+### current.mode
 
 ```bash
 $ cat interests.txt
@@ -90,7 +89,6 @@ self-hosting
 $ git status
 
 On branch main
-
 Changes not staged for commit:
   modified:   something
 
@@ -99,5 +97,4 @@ nothing broken enough to rollback.
 
 ```bash
 $ _
-```
 ```
