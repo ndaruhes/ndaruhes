@@ -1,4 +1,4 @@
-# Hi, I'm Ndaru 👋
+# Yo, Ndaru Here 👋
 
 <p align="left">
   <a href="mailto:muhamad.ndaru@gmail.com">
